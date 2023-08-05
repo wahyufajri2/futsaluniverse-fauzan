@@ -33,11 +33,14 @@ Futsal Universe adalah aplikasi web yang dirancang untuk membantu para penggemar
 Halaman home ketika user pertama kali masuk ke website
 ![Halaman Home](img/home.png)
 
+
 Halaman pilih lapangan ketika user ingin melihat lapangan-lapangan futsal
 ![Halaman Pilih Lapangan](img/pilih-lapangan.png)
 
+
 Halaman pesan lapangan ketika user ingin memesan lapangan futsal
 ![Halaman Pesan Lapangan](img/pesan-lapangan.png)
+
 
 Halaman cari jadwal ketika user ingin melihat jadwal yang kosong
 ![Halaman Cari Jadwal](img/cari-jadwal.png)
