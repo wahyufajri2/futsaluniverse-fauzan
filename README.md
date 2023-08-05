@@ -29,6 +29,19 @@ Futsal Universe adalah aplikasi web yang dirancang untuk membantu para penggemar
 4. Import database ke dalam server MySQL menggunakan file `database.sql` yang disediakan.
 5. Jalankan aplikasi dengan mengakses halaman utama melalui server web Anda.
 
+## Tampilan
+Halaman home ketika user pertama kali masuk ke website
+![Halaman Home](img/home.png)
+
+Halaman pilih lapangan ketika user ingin melihat lapangan-lapangan futsal
+![Halaman Pilih Lapangan](img/pilih-lapangan.png)
+
+Halaman pesan lapangan ketika user ingin memesan lapangan futsal
+![Halaman Pesan Lapangan](img/pesan-lapangan.png)
+
+Halaman cari jadwal ketika user ingin melihat jadwal yang kosong
+![Halaman Cari Jadwal](img/cari-jadwal.png)
+
 ## Kontribusi
 
 Kami mengundang kontribusi untuk Futsal Universe - Fauzan! Untuk berkontribusi, ikuti langkah-langkah berikut:
